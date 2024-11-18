@@ -49,7 +49,7 @@
         "id": "-zLpJkTGuWNC",
         "outputId": "d5e28f5f-0a10-4f81-8465-1043eb9337e0"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -80,7 +80,7 @@
         "id": "QXq4GFwHu0yG",
         "outputId": "276b191b-871a-479a-ce78-058b78c05d68"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -570,7 +570,7 @@
         "id": "1chfPmTkv9Xj",
         "outputId": "450a1e94-9d9f-45b3-df9f-5875c2eb1409"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "execute_result",
